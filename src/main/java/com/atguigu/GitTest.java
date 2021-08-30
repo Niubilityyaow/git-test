@@ -12,5 +12,6 @@ public class GitTest {
         System.out.println("hello master");
         System.out.println("push sonsonbbb");
         System.out.println("push pull");
+        天下无双
     }
 }
